@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://img.shields.io/github/v/release/sujit-waghmare/gemini-side-panel?color=blue&style=flat-square" /><br><img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square" /><br><img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square" /><br><img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square" /><br><img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square[...]
 
 ---
 
@@ -97,7 +97,7 @@ YourVault/
 3. Create a new folder named **exactly**: `gemini-side-panel`
 
 4. Place `main.js`, `manifest.json`, and `styles.css` inside it.
-   - Get these files from the [GitHub releases page](https://github.com/sujit-waghmare/gemini-side-panel/releases), or copy from the [[#File Reference]] section below.
+   - Get these files from the [GitHub releases page](https://github.com/waghmare-sujit/gemini-side-panel/releases), or copy from the [[#File Reference]] section below.
 
 5. Open Obsidian.
 
@@ -493,7 +493,7 @@ Follow this exact sequence:
     "minAppVersion": "0.15.0",
     "description": "Side-panel chat for Gemini with note-specific history, temperature control, and custom template referencing.",
     "author": "Waghmare",
-    "authorUrl": "https://github.com/sujit-waghmare",
+    "authorUrl": "https://github.com/waghmare-sujit",
     "fundingUrl": "https://paypal.me/waghmaresujit",
     "isDesktopOnly": false
 }
