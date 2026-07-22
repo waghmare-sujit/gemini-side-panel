@@ -1,8 +1,9 @@
 # Gemini Side Panel — Complete 1:1 Tutorial
 
 ---
-
-<img src="https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square" /><br><img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square[...]
+<div align="center">
+<img src="https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square" /> &nbsp <img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square" /> &nbsp <img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square" /> &nbsp <img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-brightgreen?style=flat-square" />
+</div>
 
 ---
 
