@@ -1,9 +1,9 @@
 # Gemini Side Panel
-![banner](https://github.com/sujit-waghmare/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/images/Gemini-side-panel-banner.png)
+![banner](https://github.com/waghmare-sujit/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/images/Gemini-side-panel-banner.png)
 
-[![GitHub release](https://img.shields.io/github/v/release/sujit-waghmare/gemini-side-panel?color=blue&style=flat-square)](https://github.com/sujit-waghmare/gemini-side-panel/releases)
+[![GitHub release](https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square)](https://github.com/waghmare-sujit/gemini-side-panel/releases)
 [![Obsidian](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)](https://obsidian.md)
-[![License](https://img.shields.io/github/license/sujit-waghmare/gemini-side-panel?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/waghmare-sujit/gemini-side-panel?style=flat-square)](LICENSE)
 [![Mobile](https://img.shields.io/badge/Mobile-Supported-green?style=flat-square)](https://obsidian.md/mobile)
 <p align="center">
 A side-panel Gemini chat for Obsidian with note-specific history, temperature control, and custom template referencing.
@@ -38,7 +38,7 @@ A side-panel Gemini chat for Obsidian with note-specific history, temperature co
 
 ### Manual (Current Method)
 
-1. Download `main.js`, `styles.css`, and `manifest.json` from the [latest release](https://github.com/sujit-waghmare/gemini-side-panel/releases).
+1. Download `main.js`, `styles.css`, and `manifest.json` from the [latest release](https://github.com/waghmare-sujit/gemini-side-panel/releases).
 2. In your vault, navigate to `.obsidian/plugins/`.
 3. Create a folder named exactly: `gemini-side-panel`.
 4. Place the three files inside it.
@@ -184,10 +184,10 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 
 ## 📑 Guide
 
-See [comprehensive guide](https://github.com/sujit-waghmare/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/Tutorial/Gemini%20in%20Side%20Panel%20Guide.md) for full details.
+See [comprehensive guide](https://github.com/waghmare-sujit/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/Tutorial/Gemini%20in%20Side%20Panel%20Guide.md) for full details[...]
 
 ---
 
 ## 📄 License
 
-[MIT](LICENSE) © 2026 [Waghmare](https://github.com/sujit-waghmare)
+[MIT](LICENSE) © 2026 [Waghmare](https://github.com/waghmare-sujit)

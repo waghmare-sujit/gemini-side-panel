@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Side-panel chat for Gemini with note-specific history, temperature control, and custom template referencing.",
 	"author": "Waghmare",
-	"authorUrl": "https://github.com/sujit-waghmare",
+	"authorUrl": "https://github.com/waghmare-sujit",
   "fundingUrl": "https://paypal.me/waghmaresujit",
 	"isDesktopOnly": false
 }
