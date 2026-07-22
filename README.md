@@ -184,7 +184,7 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 
 ## 📑 Guide
 
-See [comprehensive guide](https://github.com/waghmare-sujit/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/Tutorial/Gemini%20in%20Side%20Panel%20Guide.md) for full details[...]
+See [comprehensive guide](https://github.com/waghmare-sujit/gemini-side-panel/blob/d858a7fcc9679679bc794c23ad28fa23a9907859/assets/tutorial/Gemini%20in%20Side%20Panel.md) for full details[...]
 
 ---
 
