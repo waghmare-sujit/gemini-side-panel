@@ -88,8 +88,8 @@ YourVault/
    - **Mac/Linux:** Right-click vault → "Reveal in Finder / File Manager"
    - **Mobile:** Navigate to your vault folder using a file manager app
 
-   > [!warning] I don't see a `.obsidian` folder
-   > Go to your file manager settings and enable **"Show hidden files"**. The `.obsidian` folder is hidden by default.
+> [!Warning]
+> I don't see a `.obsidian` folder. <br> Go to your file manager settings and enable **"Show hidden files"**. The `.obsidian` folder is hidden by default.
 
 2. Navigate to `.obsidian/plugins/`.
    - If the `plugins/` folder doesn't exist, create it manually.
@@ -217,7 +217,8 @@ Controls what Gemini uses to answer your question.
 | **Note** | Strictly reads your current open note only. Refuses to use outside knowledge. |
 | **Internet** | Uses Gemini's full training data and general knowledge. Note is background context only. |
 
-> [!tip] Use Note mode for studying. Use Internet mode for research or open-ended questions.
+> [!tip]
+> Use Note mode for studying. Use Internet mode for research or open-ended questions.
 
 #### Format
 Controls how Gemini structures its reply.
@@ -228,7 +229,8 @@ Controls how Gemini structures its reply.
 | **Better Understanding** | Deep analogies, concept explanations |
 | **Brief Information** | Extremely concise, no fluff |
 
-> [!note] Selecting a Template in the next section will override and disable Format automatically.
+> [!note]
+> Selecting a Template in the next section will override and disable Format automatically.
 
 #### Templates
 Lists all templates you configured in [[#STEP 4 Plugin Settings|Settings → Template Configuration]].
