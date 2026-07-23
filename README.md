@@ -1,5 +1,5 @@
 # Gemini Side Panel
-![banner](https://github.com/waghmare-sujit/gemini-side-panel/blob/af3e8161620594a131f1098ea64cd441dc2e87ec/assets/images/Gemini-side-panel-banner.png)
+![banner](https://github.com/waghmare-sujit/gemini-side-panel/blob/100b65426f96677b7e643036579a9e784c0e2ec1/assets/images/Gemini-side-panel-banner%20%5BD907F71%5D.png)
 
 <div align="center">
   <a href="https://github.com/waghmare-sujit/gemini-side-panel/releases">
