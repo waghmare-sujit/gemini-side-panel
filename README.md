@@ -1,10 +1,21 @@
 # Gemini Side Panel
-![banner](https://github.com/waghmare-sujit/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/images/Gemini-side-panel-banner.png)
+![banner](https://github.com/waghmare-sujit/gemini-side-panel/blob/af3e8161620594a131f1098ea64cd441dc2e87ec/assets/images/Gemini-side-panel-banner.png)
 
-[![GitHub release](https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square)](https://github.com/waghmare-sujit/gemini-side-panel/releases)
-[![Obsidian](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)](https://obsidian.md)
-[![License](https://img.shields.io/github/license/waghmare-sujit/gemini-side-panel?style=flat-square)](LICENSE)
-[![Mobile](https://img.shields.io/badge/Mobile-Supported-green?style=flat-square)](https://obsidian.md/mobile)
+<div align="center">
+  <a href="https://github.com/waghmare-sujit/gemini-side-panel/releases">
+    <img src="https://img.shields.io/github/v/release/waghmare-sujit/gemini-side-panel?color=blue&style=flat-square" alt="GitHub release" />
+  </a>
+  <a href="https://obsidian.md">
+    <img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square" alt="Obsidian" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/waghmare-sujit/gemini-side-panel?style=flat-square" alt="License" />
+  </a>
+  <a href="https://obsidian.md/mobile">
+    <img src="https://img.shields.io/badge/Mobile-Supported-green?style=flat-square" alt="Mobile" />
+  </a>
+</div>
+
 <p align="center">
 A side-panel Gemini chat for Obsidian with note-specific history, temperature control, and custom template referencing.
 </p>
@@ -26,7 +37,7 @@ A side-panel Gemini chat for Obsidian with note-specific history, temperature co
 
 ---
 
-## 🆕 Changelog (v1.3.0)
+## 🆕 Changelog (v1.3)
 
 - **Template Drawer:** Added a `Templates` section to the chat menu. Define custom `.md` templates in settings to force Gemini to reply in a specific structural format.
 - **Radio Selection Logic:** Formats (Visuals, Understanding, Brief) and Templates are now mutually exclusive. Selecting a template disables standard formats, and vice versa.
